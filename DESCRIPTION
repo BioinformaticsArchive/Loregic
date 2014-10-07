@@ -1,0 +1,11 @@
+Package: Loregic
+Type: Package
+Title: Loregic: A method to characterize the cooperative logic of
+        regulatory factors
+Version: 1.0
+Date: 2014-09-08
+Author: Daifeng Wang, Mark Gerstein
+Maintainer: Mark Gerstein <pi@gersteinlab.org>
+Description: Loregic is a computational method inputting gene expression and regulatory network data, to characterize the cooperativity of regulatory factors. Loregic uses all 16 possible two-input-one-output logic gates (e.g. AND or XOR) to describe triplets of two factors regulating a common target.
+License: GPL (>= 2)
+Packaged: 2014-09-08 19:05:44 UTC; daifengwang
